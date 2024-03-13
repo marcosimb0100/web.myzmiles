@@ -1,0 +1,161 @@
+[{
+	"idCatEstadosMX": 1,
+	"clave": "AS",
+	"sigla": "AGU",
+	"estado": "AGUASCALIENTES"
+}, {
+	"idCatEstadosMX": 2,
+	"clave": "BC",
+	"sigla": "BCN",
+	"estado": "BAJA CALIFORNIA"
+}, {
+	"idCatEstadosMX": 3,
+	"clave": "BS",
+	"sigla": "BCS",
+	"estado": "BAJA CALIFORNIA SUR"
+}, {
+	"idCatEstadosMX": 4,
+	"clave": "CC",
+	"sigla": "CAM",
+	"estado": "CAMPECHE"
+}, {
+	"idCatEstadosMX": 5,
+	"clave": "CL",
+	"sigla": "COA",
+	"estado": "COAHUILA DE ZARAGOZA"
+}, {
+	"idCatEstadosMX": 6,
+	"clave": "CM",
+	"sigla": "COL",
+	"estado": "COLIMA"
+}, {
+	"idCatEstadosMX": 7,
+	"clave": "CS",
+	"sigla": "CHP",
+	"estado": "CHIAPAS"
+}, {
+	"idCatEstadosMX": 8,
+	"clave": "CH",
+	"sigla": "CHH",
+	"estado": "CHIHUAHUA"
+}, {
+	"idCatEstadosMX": 9,
+	"clave": "DF",
+	"sigla": "DIF",
+	"estado": "CIUDAD DE MEXICO"
+}, {
+	"idCatEstadosMX": 10,
+	"clave": "DG",
+	"sigla": "DUR",
+	"estado": "DURANGO"
+}, {
+	"idCatEstadosMX": 11,
+	"clave": "GT",
+	"sigla": "GUA",
+	"estado": "GUANAJUATO"
+}, {
+	"idCatEstadosMX": 12,
+	"clave": "GR",
+	"sigla": "GRO",
+	"estado": "GUERRERO"
+}, {
+	"idCatEstadosMX": 13,
+	"clave": "HG",
+	"sigla": "HID",
+	"estado": "HIDALGO"
+}, {
+	"idCatEstadosMX": 14,
+	"clave": "JC",
+	"sigla": "JAL",
+	"estado": "JALISCO"
+}, {
+	"idCatEstadosMX": 15,
+	"clave": "MC",
+	"sigla": "MEX",
+	"estado": "MEXICO"
+}, {
+	"idCatEstadosMX": 16,
+	"clave": "MN",
+	"sigla": "MIC",
+	"estado": "MICHOACAN DE OCAMPO"
+}, {
+	"idCatEstadosMX": 17,
+	"clave": "MS",
+	"sigla": "MOR",
+	"estado": "MORELOS"
+}, {
+	"idCatEstadosMX": 18,
+	"clave": "NT",
+	"sigla": "NAY",
+	"estado": "NAYARIT"
+}, {
+	"idCatEstadosMX": 19,
+	"clave": "NL",
+	"sigla": "NLE",
+	"estado": "NUEVO LEON"
+}, {
+	"idCatEstadosMX": 20,
+	"clave": "OC",
+	"sigla": "OAX",
+	"estado": "OAXACA"
+}, {
+	"idCatEstadosMX": 21,
+	"clave": "PL",
+	"sigla": "PUE",
+	"estado": "PUEBLA"
+}, {
+	"idCatEstadosMX": 22,
+	"clave": "QT",
+	"sigla": "QUE",
+	"estado": "QUERETARO"
+}, {
+	"idCatEstadosMX": 23,
+	"clave": "QR",
+	"sigla": "ROO",
+	"estado": "QUINTANA ROO"
+}, {
+	"idCatEstadosMX": 24,
+	"clave": "SP",
+	"sigla": "SLP",
+	"estado": "SAN LUIS POTOSI"
+}, {
+	"idCatEstadosMX": 25,
+	"clave": "SL",
+	"sigla": "SIN",
+	"estado": "SINALOA"
+}, {
+	"idCatEstadosMX": 26,
+	"clave": "SR",
+	"sigla": "SON",
+	"estado": "SONORA"
+}, {
+	"idCatEstadosMX": 27,
+	"clave": "TC",
+	"sigla": "TAB",
+	"estado": "TABASCO"
+}, {
+	"idCatEstadosMX": 28,
+	"clave": "TS",
+	"sigla": "TAM",
+	"estado": "TAMAULIPAS"
+}, {
+	"idCatEstadosMX": 29,
+	"clave": "TL",
+	"sigla": "TLA",
+	"estado": "TLAXCALA"
+}, {
+	"idCatEstadosMX": 30,
+	"clave": "VZ",
+	"sigla": "VER",
+	"estado": "VERACRUZ DE IGNACIO DE LA LLAVE"
+}, {
+	"idCatEstadosMX": 31,
+	"clave": "YN",
+	"sigla": "YUC",
+	"estado": "YUCATAN"
+}, {
+	"idCatEstadosMX": 32,
+	"clave": "ZS",
+	"sigla": "ZAC",
+	"estado": "ZACATECAS"
+}]

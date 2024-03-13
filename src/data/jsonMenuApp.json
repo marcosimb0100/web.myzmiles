@@ -1,0 +1,26 @@
+[
+    {
+        "key": "1",
+        "label": "Firma de recibos",
+        "url": "/folder/Inbox",
+        "iosIcon": "mailOutline",
+        "mdIcon": "mailSharp",
+        "orden": 1
+    },
+    {
+        "key": "2",
+        "label": "Comprobar gastos viaticos",
+        "url": "/folder/Outbox",
+        "iosIcon": "paperPlaneOutline",
+        "mdIcon": "paperPlaneSharp",
+        "orden": 2
+    },
+    {
+        "key": "3",
+        "label": "Control vehicular",
+        "url": "/folder/Favorites",
+        "iosIcon": "heartOutline",
+        "mdIcon": "heartSharp",
+        "orden": 3
+    }
+]

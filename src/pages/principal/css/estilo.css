@@ -1,0 +1,12 @@
+h3{
+    font-size: 15px;
+}
+
+.contentFiles{
+    width: 100%;
+    background: white;
+    color: black;
+    display: grid;
+    grid-template-columns: 320px 320px 320px 320px;
+    align-items: flex-end;
+  }

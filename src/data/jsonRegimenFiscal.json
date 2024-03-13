@@ -1,0 +1,67 @@
+[{
+	"idCatRegimenFiscal": 601,
+	"regimenFiscal": "General de Ley Personas Morales"
+}, {
+	"idCatRegimenFiscal": 603,
+	"regimenFiscal": "Personas Morales con Fines no Lucrativos"
+}, {
+	"idCatRegimenFiscal": 605,
+	"regimenFiscal": "Sueldos y Salarios e Ingresos Asimilados a Salarios"
+}, {
+	"idCatRegimenFiscal": 606,
+	"regimenFiscal": "Arrendamiento"
+}, {
+	"idCatRegimenFiscal": 607,
+	"regimenFiscal": "Régimen de Enajenación o Adquisición de Bienes"
+}, {
+	"idCatRegimenFiscal": 608,
+	"regimenFiscal": "Demás ingresos"
+}, {
+	"idCatRegimenFiscal": 609,
+	"regimenFiscal": "Consolidación"
+}, {
+	"idCatRegimenFiscal": 610,
+	"regimenFiscal": "Residentes en el Extranjero sin Establecimiento Permanente en México"
+}, {
+	"idCatRegimenFiscal": 611,
+	"regimenFiscal": "Ingresos por Dividendos (socios y accionistas)"
+}, {
+	"idCatRegimenFiscal": 612,
+	"regimenFiscal": "Personas Físicas con Actividades Empresariales y Profesionales"
+}, {
+	"idCatRegimenFiscal": 614,
+	"regimenFiscal": "Ingresos por intereses"
+}, {
+	"idCatRegimenFiscal": 615,
+	"regimenFiscal": "Régimen de los ingresos por obtención de premios"
+}, {
+	"idCatRegimenFiscal": 616,
+	"regimenFiscal": "Sin obligaciones fiscales"
+}, {
+	"idCatRegimenFiscal": 620,
+	"regimenFiscal": "Sociedades Cooperativas de Producción que optan por diferir sus ingresos"
+}, {
+	"idCatRegimenFiscal": 621,
+	"regimenFiscal": "Incorporación Fiscal"
+}, {
+	"idCatRegimenFiscal": 622,
+	"regimenFiscal": "Actividades Agrícolas, Ganaderas, Silvícolas y Pesqueras"
+}, {
+	"idCatRegimenFiscal": 623,
+	"regimenFiscal": "Opcional para Grupos de Sociedades"
+}, {
+	"idCatRegimenFiscal": 624,
+	"regimenFiscal": "Coordinados"
+}, {
+	"idCatRegimenFiscal": 626,
+	"regimenFiscal": "Régimen Simplificado de Confianza"
+}, {
+	"idCatRegimenFiscal": 628,
+	"regimenFiscal": "Hidrocarburos"
+}, {
+	"idCatRegimenFiscal": 629,
+	"regimenFiscal": "De los Regímenes Fiscales Preferentes y de las Empresas Multinacionales"
+}, {
+	"idCatRegimenFiscal": 630,
+	"regimenFiscal": "Enajenación de acciones en bolsa de valores"
+}]

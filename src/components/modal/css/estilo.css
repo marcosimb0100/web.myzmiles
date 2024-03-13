@@ -1,0 +1,92 @@
+.modal-background {
+    position: fixed;
+    display: flex;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    
+    background-color: rgba(0, 0, 0, 0.5);
+    
+    align-items: center;
+    justify-content: center;
+    vertical-align: middle;
+
+    z-index: 100000;
+}
+
+
+.modal-container {
+    background-color: #fff;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
+    border-radius: 10px;
+    padding: 15px;
+    transition: all 0.3s ease;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    /* width: 500px; */
+    /* height: 800px; */
+}
+
+.encabezadoContenido{
+    text-align: right;
+}
+
+.cuerpoContenido{
+    width: 100%;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.33);
+    border-radius: 5px;
+    padding: 5px 5px 5px 5px;
+    overflow: auto;
+}
+
+footer{
+    margin: 10px;
+    position: absolute;
+    bottom: 0;
+    left: 0;
+}
+
+/* .center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 250px;
+    height: 250px;
+    color: red;
+} */
+
+
+.fade-in {
+    animation: fadeIn ease-out 0.2s;
+    -webkit-animation: fadeIn ease-out 0.2s;
+    -moz-animation: fadeIn ease-out 0.2s;
+    -o-animation: fadeIn ease-out 0.2s;
+    -ms-animation: fadeIn ease-out 0.2s;
+}
+
+@keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-moz-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-webkit-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-o-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}
+
+@-ms-keyframes fadeIn {
+    0% {opacity:0;}
+    100% {opacity:1;}
+}

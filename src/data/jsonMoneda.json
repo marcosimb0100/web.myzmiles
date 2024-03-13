@@ -1,0 +1,892 @@
+[
+    {
+        "moneda": "AED",
+        "descripcion": "DIRHAM DE EAU",
+        "activo": false
+    },
+    {
+        "moneda": "AFN",
+        "descripcion": "AFGHANI",
+        "activo": false
+    },
+    {
+        "moneda": "ALL",
+        "descripcion": "LEK",
+        "activo": false
+    },
+    {
+        "moneda": "AMD",
+        "descripcion": "DRAM ARMENIO",
+        "activo": false
+    },
+    {
+        "moneda": "ANG",
+        "descripcion": "FLORIN ANTILLANO NEERLANDES",
+        "activo": false
+    },
+    {
+        "moneda": "AOA",
+        "descripcion": "KWANZA",
+        "activo": false
+    },
+    {
+        "moneda": "ARS",
+        "descripcion": "PESO ARGENTINO",
+        "activo": false
+    },
+    {
+        "moneda": "AUD",
+        "descripcion": "DOLAR AUSTRALIANO",
+        "activo": false
+    },
+    {
+        "moneda": "AWG",
+        "descripcion": "ARUBA FLORIN",
+        "activo": false
+    },
+    {
+        "moneda": "AZN",
+        "descripcion": "AZERBAIJANIAN MANAT",
+        "activo": false
+    },
+    {
+        "moneda": "BAM",
+        "descripcion": "CONVERTIBLES MARCA",
+        "activo": false
+    },
+    {
+        "moneda": "BBD",
+        "descripcion": "DOLAR DE BARBADOS",
+        "activo": false
+    },
+    {
+        "moneda": "BDT",
+        "descripcion": "TAKA",
+        "activo": false
+    },
+    {
+        "moneda": "BGN",
+        "descripcion": "LEV BULGARO",
+        "activo": false
+    },
+    {
+        "moneda": "BHD",
+        "descripcion": "DINAR DE BAHREIN",
+        "activo": false
+    },
+    {
+        "moneda": "BIF",
+        "descripcion": "BURUNDI FRANC",
+        "activo": false
+    },
+    {
+        "moneda": "BMD",
+        "descripcion": "DOLAR DE BERMUDAS",
+        "activo": false
+    },
+    {
+        "moneda": "BND",
+        "descripcion": "DOLAR DE BRUNEI",
+        "activo": false
+    },
+    {
+        "moneda": "BOB",
+        "descripcion": "BOLIVIANO",
+        "activo": false
+    },
+    {
+        "moneda": "BOV",
+        "descripcion": "MVDOL",
+        "activo": false
+    },
+    {
+        "moneda": "BRL",
+        "descripcion": "REAL BRASILEÑO",
+        "activo": false
+    },
+    {
+        "moneda": "BSD",
+        "descripcion": "DOLAR DE LAS BAHAMAS",
+        "activo": false
+    },
+    {
+        "moneda": "BTN",
+        "descripcion": "NGULTRUM",
+        "activo": false
+    },
+    {
+        "moneda": "BWP",
+        "descripcion": "PULA",
+        "activo": false
+    },
+    {
+        "moneda": "BYR",
+        "descripcion": "RUBLO BIELORRUSO",
+        "activo": false
+    },
+    {
+        "moneda": "BZD",
+        "descripcion": "DOLAR DE BELICE",
+        "activo": false
+    },
+    {
+        "moneda": "CAD",
+        "descripcion": "DOLAR CANADIENSE",
+        "activo": false
+    },
+    {
+        "moneda": "CDF",
+        "descripcion": "FRANCO CONGOLEÑO",
+        "activo": false
+    },
+    {
+        "moneda": "CHE",
+        "descripcion": "WIR EURO",
+        "activo": false
+    },
+    {
+        "moneda": "CHF",
+        "descripcion": "FRANCO SUIZO",
+        "activo": false
+    },
+    {
+        "moneda": "CHW",
+        "descripcion": "FRANC WIR",
+        "activo": false
+    },
+    {
+        "moneda": "CLF",
+        "descripcion": "UNIDAD DE FOMENTO",
+        "activo": false
+    },
+    {
+        "moneda": "CLP",
+        "descripcion": "PESO CHILENO",
+        "activo": false
+    },
+    {
+        "moneda": "CNY",
+        "descripcion": "YUAN RENMINBI",
+        "activo": false
+    },
+    {
+        "moneda": "COP",
+        "descripcion": "PESO COLOMBIANO",
+        "activo": false
+    },
+    {
+        "moneda": "COU",
+        "descripcion": "UNIDAD DE VALOR REAL",
+        "activo": false
+    },
+    {
+        "moneda": "CRC",
+        "descripcion": "COLON COSTARRICENSE",
+        "activo": false
+    },
+    {
+        "moneda": "CUC",
+        "descripcion": "PESO CONVERTIBLE",
+        "activo": false
+    },
+    {
+        "moneda": "CUP",
+        "descripcion": "PESO CUBANO",
+        "activo": false
+    },
+    {
+        "moneda": "CVE",
+        "descripcion": "CABO VERDE ESCUDO",
+        "activo": false
+    },
+    {
+        "moneda": "CZK",
+        "descripcion": "CORONA CHECA",
+        "activo": false
+    },
+    {
+        "moneda": "DJF",
+        "descripcion": "FRANCO DE DJIBOUTI",
+        "activo": false
+    },
+    {
+        "moneda": "DKK",
+        "descripcion": "CORONA DANESA",
+        "activo": false
+    },
+    {
+        "moneda": "DOP",
+        "descripcion": "PESO DOMINICANO",
+        "activo": false
+    },
+    {
+        "moneda": "DZD",
+        "descripcion": "DINAR ARGELINO",
+        "activo": false
+    },
+    {
+        "moneda": "EGP",
+        "descripcion": "LIBRA EGIPCIA",
+        "activo": false
+    },
+    {
+        "moneda": "ERN",
+        "descripcion": "NAKFA",
+        "activo": false
+    },
+    {
+        "moneda": "ETB",
+        "descripcion": "BIRR ETIOPE",
+        "activo": false
+    },
+    {
+        "moneda": "EUR",
+        "descripcion": "EURO",
+        "activo": false
+    },
+    {
+        "moneda": "FJD",
+        "descripcion": "DOLAR DE FIJI",
+        "activo": false
+    },
+    {
+        "moneda": "FKP",
+        "descripcion": "LIBRA MALVINENSE",
+        "activo": false
+    },
+    {
+        "moneda": "GBP",
+        "descripcion": "LIBRA ESTERLINA",
+        "activo": false
+    },
+    {
+        "moneda": "GEL",
+        "descripcion": "LARI",
+        "activo": false
+    },
+    {
+        "moneda": "GHS",
+        "descripcion": "CEDI DE GHANA",
+        "activo": false
+    },
+    {
+        "moneda": "GIP",
+        "descripcion": "LIBRA DE GIBRALTAR",
+        "activo": false
+    },
+    {
+        "moneda": "GMD",
+        "descripcion": "DALASI",
+        "activo": false
+    },
+    {
+        "moneda": "GNF",
+        "descripcion": "FRANCO GUINEANO",
+        "activo": false
+    },
+    {
+        "moneda": "GTQ",
+        "descripcion": "QUETZAL",
+        "activo": false
+    },
+    {
+        "moneda": "GYD",
+        "descripcion": "DOLAR GUYANES",
+        "activo": false
+    },
+    {
+        "moneda": "HKD",
+        "descripcion": "DOLAR DE HONG KONG",
+        "activo": false
+    },
+    {
+        "moneda": "HNL",
+        "descripcion": "LEMPIRA",
+        "activo": false
+    },
+    {
+        "moneda": "HRK",
+        "descripcion": "KUNA",
+        "activo": false
+    },
+    {
+        "moneda": "HTG",
+        "descripcion": "GOURDE",
+        "activo": false
+    },
+    {
+        "moneda": "HUF",
+        "descripcion": "FLORIN",
+        "activo": false
+    },
+    {
+        "moneda": "IDR",
+        "descripcion": "RUPIA",
+        "activo": false
+    },
+    {
+        "moneda": "ILS",
+        "descripcion": "NUEVO SHEKEL ISRAELI",
+        "activo": false
+    },
+    {
+        "moneda": "INR",
+        "descripcion": "RUPIA INDIA",
+        "activo": false
+    },
+    {
+        "moneda": "IQD",
+        "descripcion": "DINAR IRAQUI",
+        "activo": false
+    },
+    {
+        "moneda": "IRR",
+        "descripcion": "RIAL IRANI",
+        "activo": false
+    },
+    {
+        "moneda": "ISK",
+        "descripcion": "CORONA ISLANDESA",
+        "activo": false
+    },
+    {
+        "moneda": "JMD",
+        "descripcion": "DOLAR JAMAIQUINO",
+        "activo": false
+    },
+    {
+        "moneda": "JOD",
+        "descripcion": "DINAR JORDANO",
+        "activo": false
+    },
+    {
+        "moneda": "JPY",
+        "descripcion": "YEN",
+        "activo": false
+    },
+    {
+        "moneda": "KES",
+        "descripcion": "CHELIN KENIANO",
+        "activo": false
+    },
+    {
+        "moneda": "KGS",
+        "descripcion": "SOM",
+        "activo": false
+    },
+    {
+        "moneda": "KHR",
+        "descripcion": "RIEL",
+        "activo": false
+    },
+    {
+        "moneda": "KMF",
+        "descripcion": "FRANCO COMORO",
+        "activo": false
+    },
+    {
+        "moneda": "KPW",
+        "descripcion": "COREA DEL NORTE GANO",
+        "activo": false
+    },
+    {
+        "moneda": "KRW",
+        "descripcion": "WON",
+        "activo": false
+    },
+    {
+        "moneda": "KWD",
+        "descripcion": "DINAR KUWAITI",
+        "activo": false
+    },
+    {
+        "moneda": "KYD",
+        "descripcion": "DOLAR DE LAS ISLAS CAIMAN",
+        "activo": false
+    },
+    {
+        "moneda": "KZT",
+        "descripcion": "TENGE",
+        "activo": false
+    },
+    {
+        "moneda": "LAK",
+        "descripcion": "KIP",
+        "activo": false
+    },
+    {
+        "moneda": "LBP",
+        "descripcion": "LIBRA LIBANESA",
+        "activo": false
+    },
+    {
+        "moneda": "LKR",
+        "descripcion": "RUPIA DE SRI LANKA",
+        "activo": false
+    },
+    {
+        "moneda": "LRD",
+        "descripcion": "DOLAR LIBERIANO",
+        "activo": false
+    },
+    {
+        "moneda": "LSL",
+        "descripcion": "LOTI",
+        "activo": false
+    },
+    {
+        "moneda": "LYD",
+        "descripcion": "DINAR LIBIO",
+        "activo": false
+    },
+    {
+        "moneda": "MAD",
+        "descripcion": "DIRHAM MARROQUI",
+        "activo": false
+    },
+    {
+        "moneda": "MDL",
+        "descripcion": "LEU MOLDAVO",
+        "activo": false
+    },
+    {
+        "moneda": "MGA",
+        "descripcion": "ARIARY MALGACHE",
+        "activo": false
+    },
+    {
+        "moneda": "MKD",
+        "descripcion": "DENAR",
+        "activo": false
+    },
+    {
+        "moneda": "MMK",
+        "descripcion": "KYAT",
+        "activo": false
+    },
+    {
+        "moneda": "MNT",
+        "descripcion": "TUGRIK",
+        "activo": false
+    },
+    {
+        "moneda": "MOP",
+        "descripcion": "PATACA",
+        "activo": false
+    },
+    {
+        "moneda": "MRO",
+        "descripcion": "OUGUIYA",
+        "activo": false
+    },
+    {
+        "moneda": "MUR",
+        "descripcion": "RUPIA DE MAURICIO",
+        "activo": false
+    },
+    {
+        "moneda": "MVR",
+        "descripcion": "RUPIA",
+        "activo": false
+    },
+    {
+        "moneda": "MWK",
+        "descripcion": "KWACHA",
+        "activo": false
+    },
+    {
+        "moneda": "MXN",
+        "descripcion": "PESO MEXICANO",
+        "activo": true
+    },
+    {
+        "moneda": "MXV",
+        "descripcion": "MEXICO UNIDAD DE INVERSION (UDI)",
+        "activo": false
+    },
+    {
+        "moneda": "MYR",
+        "descripcion": "RINGGIT MALAYO",
+        "activo": false
+    },
+    {
+        "moneda": "MZN",
+        "descripcion": "MOZAMBIQUE METICAL",
+        "activo": false
+    },
+    {
+        "moneda": "NAD",
+        "descripcion": "DOLAR DE NAMIBIA",
+        "activo": false
+    },
+    {
+        "moneda": "NGN",
+        "descripcion": "NAIRA",
+        "activo": false
+    },
+    {
+        "moneda": "NIO",
+        "descripcion": "CORDOBA ORO",
+        "activo": false
+    },
+    {
+        "moneda": "NOK",
+        "descripcion": "CORONA NORUEGA",
+        "activo": false
+    },
+    {
+        "moneda": "NPR",
+        "descripcion": "RUPIA NEPALI",
+        "activo": false
+    },
+    {
+        "moneda": "NZD",
+        "descripcion": "DOLAR DE NUEVA ZELANDA",
+        "activo": false
+    },
+    {
+        "moneda": "OMR",
+        "descripcion": "RIAL OMANI",
+        "activo": false
+    },
+    {
+        "moneda": "PAB",
+        "descripcion": "BALBOA",
+        "activo": false
+    },
+    {
+        "moneda": "PEN",
+        "descripcion": "NUEVO SOL",
+        "activo": false
+    },
+    {
+        "moneda": "PGK",
+        "descripcion": "KINA",
+        "activo": false
+    },
+    {
+        "moneda": "PHP",
+        "descripcion": "PESO FILIPINO",
+        "activo": false
+    },
+    {
+        "moneda": "PKR",
+        "descripcion": "RUPIA DE PAKISTAN",
+        "activo": false
+    },
+    {
+        "moneda": "PLN",
+        "descripcion": "ZLOTY",
+        "activo": false
+    },
+    {
+        "moneda": "PYG",
+        "descripcion": "GUARANI",
+        "activo": false
+    },
+    {
+        "moneda": "QAR",
+        "descripcion": "QATAR RIAL",
+        "activo": false
+    },
+    {
+        "moneda": "RON",
+        "descripcion": "LEU RUMANO",
+        "activo": false
+    },
+    {
+        "moneda": "RSD",
+        "descripcion": "DINAR SERBIO",
+        "activo": false
+    },
+    {
+        "moneda": "RUB",
+        "descripcion": "RUBLO RUSO",
+        "activo": false
+    },
+    {
+        "moneda": "RWF",
+        "descripcion": "FRANCO RUANDES",
+        "activo": false
+    },
+    {
+        "moneda": "SAR",
+        "descripcion": "RIYAL SAUDI",
+        "activo": false
+    },
+    {
+        "moneda": "SBD",
+        "descripcion": "DOLAR DE LAS ISLAS SALOMON",
+        "activo": false
+    },
+    {
+        "moneda": "SCR",
+        "descripcion": "RUPIA DE SEYCHELLES",
+        "activo": false
+    },
+    {
+        "moneda": "SDG",
+        "descripcion": "LIBRA SUDANESA",
+        "activo": false
+    },
+    {
+        "moneda": "SEK",
+        "descripcion": "CORONA SUECA",
+        "activo": false
+    },
+    {
+        "moneda": "SGD",
+        "descripcion": "DOLAR DE SINGAPUR",
+        "activo": false
+    },
+    {
+        "moneda": "SHP",
+        "descripcion": "LIBRA DE SANTA HELENA",
+        "activo": false
+    },
+    {
+        "moneda": "SLL",
+        "descripcion": "LEONA",
+        "activo": false
+    },
+    {
+        "moneda": "SOS",
+        "descripcion": "CHELIN SOMALI",
+        "activo": false
+    },
+    {
+        "moneda": "SRD",
+        "descripcion": "DOLAR DE SURINAME",
+        "activo": false
+    },
+    {
+        "moneda": "SSP",
+        "descripcion": "LIBRA SUDANESA SUR",
+        "activo": false
+    },
+    {
+        "moneda": "STD",
+        "descripcion": "DOBRA",
+        "activo": false
+    },
+    {
+        "moneda": "SVC",
+        "descripcion": "COLON EL SALVADOR",
+        "activo": false
+    },
+    {
+        "moneda": "SYP",
+        "descripcion": "LIBRA SIRIA",
+        "activo": false
+    },
+    {
+        "moneda": "SZL",
+        "descripcion": "LILANGENI",
+        "activo": false
+    },
+    {
+        "moneda": "THB",
+        "descripcion": "BAHT",
+        "activo": false
+    },
+    {
+        "moneda": "TJS",
+        "descripcion": "SOMONI",
+        "activo": false
+    },
+    {
+        "moneda": "TMT",
+        "descripcion": "TURKMENISTAN NUEVO MANAT",
+        "activo": false
+    },
+    {
+        "moneda": "TND",
+        "descripcion": "DINAR TUNECINO",
+        "activo": false
+    },
+    {
+        "moneda": "TOP",
+        "descripcion": "PA'ANGA",
+        "activo": false
+    },
+    {
+        "moneda": "TRY",
+        "descripcion": "LIRA TURCA",
+        "activo": false
+    },
+    {
+        "moneda": "TTD",
+        "descripcion": "DOLAR DE TRINIDAD Y TOBAGO",
+        "activo": false
+    },
+    {
+        "moneda": "TWD",
+        "descripcion": "NUEVO DOLAR DE TAIWAN",
+        "activo": false
+    },
+    {
+        "moneda": "TZS",
+        "descripcion": "SHILLING TANZANO",
+        "activo": false
+    },
+    {
+        "moneda": "UAH",
+        "descripcion": "HRYVNIA",
+        "activo": false
+    },
+    {
+        "moneda": "UGX",
+        "descripcion": "SHILLING DE UGANDA",
+        "activo": false
+    },
+    {
+        "moneda": "USD",
+        "descripcion": "DOLAR AMERICANO",
+        "activo": false
+    },
+    {
+        "moneda": "USN",
+        "descripcion": "DOLAR ESTADOUNIDENSE (DIA SIGUIENTE)",
+        "activo": false
+    },
+    {
+        "moneda": "UYI",
+        "descripcion": "PESO URUGUAY EN UNIDADES INDEXADAS (URUIURUI)",
+        "activo": false
+    },
+    {
+        "moneda": "UYU",
+        "descripcion": "PESO URUGUAYO",
+        "activo": false
+    },
+    {
+        "moneda": "UZS",
+        "descripcion": "UZBEKISTAN SUM",
+        "activo": false
+    },
+    {
+        "moneda": "VEF",
+        "descripcion": "BOLIVAR",
+        "activo": false
+    },
+    {
+        "moneda": "VND",
+        "descripcion": "DONG",
+        "activo": false
+    },
+    {
+        "moneda": "VUV",
+        "descripcion": "VATU",
+        "activo": false
+    },
+    {
+        "moneda": "WST",
+        "descripcion": "TALA",
+        "activo": false
+    },
+    {
+        "moneda": "XAF",
+        "descripcion": "FRANCO CFA BEAC",
+        "activo": false
+    },
+    {
+        "moneda": "XAG",
+        "descripcion": "PLATA",
+        "activo": false
+    },
+    {
+        "moneda": "XAU",
+        "descripcion": "ORO",
+        "activo": false
+    },
+    {
+        "moneda": "XBA",
+        "descripcion": "UNIDAD DE MERCADOS DE BONOS UNIDAD EUROPEA COMPOSITE (EURCO)",
+        "activo": false
+    },
+    {
+        "moneda": "XBB",
+        "descripcion": "UNIDAD MONETARIA DE BONOS DE MERCADOS UNIDAD EUROPEA (UEM-6)",
+        "activo": false
+    },
+    {
+        "moneda": "XBC",
+        "descripcion": "MERCADOS DE BONOS UNIDAD EUROPEA UNIDAD DE CUENTA A 9 (UCE-9)",
+        "activo": false
+    },
+    {
+        "moneda": "XBD",
+        "descripcion": "MERCADOS DE BONOS UNIDAD EUROPEA UNIDAD DE CUENTA A 17 (UCE-17)",
+        "activo": false
+    },
+    {
+        "moneda": "XCD",
+        "descripcion": "DOLAR DEL CARIBE ORIENTAL",
+        "activo": false
+    },
+    {
+        "moneda": "XDR",
+        "descripcion": "DEG (DERECHOS ESPECIALES DE GIRO)",
+        "activo": false
+    },
+    {
+        "moneda": "XOF",
+        "descripcion": "FRANCO CFA BCEAO",
+        "activo": false
+    },
+    {
+        "moneda": "XPD",
+        "descripcion": "PALADIO",
+        "activo": false
+    },
+    {
+        "moneda": "XPF",
+        "descripcion": "FRANCO CFP",
+        "activo": false
+    },
+    {
+        "moneda": "XPT",
+        "descripcion": "PLATINO",
+        "activo": false
+    },
+    {
+        "moneda": "XSU",
+        "descripcion": "SUCRE",
+        "activo": false
+    },
+    {
+        "moneda": "XTS",
+        "descripcion": "CODIGOS RESERVADOS ESPECIFICAMENTE PARA PROPOSITOS DE PRUEBA",
+        "activo": false
+    },
+    {
+        "moneda": "XUA",
+        "descripcion": "UNIDAD ADB DE CUENTA",
+        "activo": false
+    },
+    {
+        "moneda": "XXX",
+        "descripcion": "LOS CODIGOS ASIGNADOS PARA LAS TRANSACCIONES EN QUE INTERVENGA NINGUNA MONEDA",
+        "activo": false
+    },
+    {
+        "moneda": "YER",
+        "descripcion": "RIAL YEMENI",
+        "activo": false
+    },
+    {
+        "moneda": "ZAR",
+        "descripcion": "RAND",
+        "activo": false
+    },
+    {
+        "moneda": "ZMW",
+        "descripcion": "KWACHA ZAMBIANO",
+        "activo": false
+    },
+    {
+        "moneda": "ZWL",
+        "descripcion": "ZIMBABWE DOLAR",
+        "activo": false
+    }
+]
