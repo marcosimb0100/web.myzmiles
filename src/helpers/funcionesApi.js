@@ -1,7 +1,7 @@
 import axios from 'axios';
 
-const url = 'http://localhost:6004';
-// const url = 'https://zmilesapi.dev-jskarma.net';
+// const url = 'http://localhost:6004';
+const url = 'https://api-myzmiles.onrender.com';
 
 
 const urlFacturacion = '';
