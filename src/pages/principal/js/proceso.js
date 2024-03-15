@@ -39,6 +39,8 @@ const useProceso = () => {
     const arrayFilesUpload = ref(null);
     const stringFilesUpload = ref('');
     const id_produce = ref('');
+    const id_contact_produce = ref('');
+    const id_interest_produce = ref('');
     const arrayStatus = ref([
         { status: 'Pending', description: 'Pending' },
         { status: 'Approved', description: 'Approved' },
@@ -54,6 +56,7 @@ const useProceso = () => {
     const lowerAlignersInput = ref(0);
     const numberAlignersInput = ref(0);
 
+    const btnProduceOkDisable = ref(true);
 
 
     const handleService = async() => {
@@ -427,8 +430,10 @@ const useProceso = () => {
     };
 
 
-    const handleShowProdece = (id) => {
+    const handleShowProdece = (id, idcontact, idinterest) => {
         id_produce.value = id;
+        id_contact_produce.value = idcontact;
+        id_interest_produce.value = idinterest;
         modalUploadFile.value = true;
     };
 
@@ -453,6 +458,8 @@ const useProceso = () => {
 
     const handleCloseProduce = () => {
         id_produce.value = '';
+        id_contact_produce.value = '';
+        id_interest_produce.value = '';
         arrayFilesUpload.value = null;
         stringFilesUpload.value = '';
         upperAlignersInput.value = 0;
@@ -467,6 +474,8 @@ const useProceso = () => {
         let formData = new FormData()
 
         formData.append('id', id_produce.value);
+        formData.append('id_contact', id_contact_produce.value);
+        formData.append('id_interest', id_interest_produce.value);
         formData.append('stringFilesUpload', stringFilesUpload.value);
         formData.append('upperAlignersInput', upperAlignersInput.value);
         formData.append('lowerAlignersInput', lowerAlignersInput.value);
@@ -485,40 +494,12 @@ const useProceso = () => {
             formData
         });
 
-        console.log( resp );
+        if( resp.status ){
+            handleCloseProduce();
+            handleTableDeal();
+        }
 
-        handleCloseProduce();
-        handleTableDeal();
-
-        // console.log( arrayFilesFormData.value )
-        // await files.map( async(file) => {
-        //     console.log( file )
-        //     console.log( stringToken.value );
-            // console.log( file );
-        //     // let data = new FormData();
-        //     // data.append('filename', file.name);
-        //     // data.append('parent_id', stringParent_Id.value);
-        //     // data.append('override-name-exist', 'true');
-        //     // data.append("content", file);
-        //     // console.log(data);
-        //     // const resp = await store.dispatch('api/fn_data_post_file_zoho', {
-        //     //     mostrarNotificacion: false,
-        //     //     direccion: "",
-        //     //     token: stringToken.value,
-        //     //     formaData: data
-        //     // });
-        //     // console.log(resp);
-        // });
-        // console.log(e.files);
-                // const file = event.files[0];
-        // const reader = new FileReader();
-        // let blob = await fetch(file.objectURL).then((r) => r.blob()); //blob:url
-
-        // reader.readAsDataURL(blob);
-
-        // reader.onloadend = function () {
-        //     const base64data = reader.result;
-        // };
+        
 
     };
 
@@ -543,6 +524,16 @@ const useProceso = () => {
     });
 
 
+    watch([arrayFilesUpload, stringFilesUpload, upperAlignersInput, lowerAlignersInput, numberAlignersInput ], (data) => {
+        if( (data[0] !== null || data[1].length > 0) && data[2] > 0 && data[3] > 0 ){
+            btnProduceOkDisable.value = false;
+        }else{
+            btnProduceOkDisable.value = true;
+        }
+        
+    });
+
+
     return {
         proveedor,
         formatoMexico,
@@ -563,11 +554,14 @@ const useProceso = () => {
         idInteres,
         stringFilesUpload,
         id_produce,
+        id_contact_produce,
+        id_interest_produce,
         arrayStatus,
         selectedStatus,
         upperAlignersInput,
         lowerAlignersInput,
         numberAlignersInput,
+        btnProduceOkDisable,
 
         handleService,
         handleShowNotes,

@@ -41,7 +41,7 @@
 					<button class="btn btn-info" style="margin-left: 2px; margin-right: 2px; color: white;" @click="handleShowApproved(id)" v-if="Status_Validation === 'Pending'">
 						<font-icon :icon="['fas', 'thumbs-up']" /> Approved
 					</button>
-					<button class="btn btn-success" style="margin-left: 2px; margin-right: 2px; color: white;" @click="handleShowProdece(id)" v-if="Status_Validation === 'Approved'">
+					<button class="btn btn-success" style="margin-left: 2px; margin-right: 2px; color: white;" @click="handleShowProdece(id, Id_Contact, Id_Interest)" v-if="Status_Validation === 'Approved'">
 						<font-icon :icon="['fas', 'gears']" /> Produce (ok)
 					</button>
 					<button class="btn btn-danger" style="margin-left: 2px; margin-right: 2px;" @click="handleShowDeclined(id)" v-if="Status_Validation !==  'Declined'">
@@ -271,17 +271,17 @@
 
 	<Dialog v-model:visible="modalUploadFile" :modal="true" header="Header" footer="Footer" :breakpoints="{'200px': '100vw'}" :style="{width: '40vw'}" style="border: 3px solid rgba(229, 106, 111);">
         <template #header>
-			<h3 style="color: rgb(53, 80, 112); font-weight: bold; font-size: 20px;">Produce - Upload Files {{ id_produce }}</h3>
+			<h3 style="color: rgb(53, 80, 112); font-weight: bold; font-size: 20px;">Produce - Upload Files {{ id_produce }} {{ id_contact_produce }} {{ id_interest_produce }}</h3>
 			<hr>
         </template>
 		<div style="height: 300px; font-size: 18px; padding: 5px;">
 
 				<div class="row">
 					<div class="col">
+						<!-- multiple="true" -->
 						<input
 							type="file"
 							class="form-control"
-							multiple="true"
 							@change="handleUploadFile"
 						/>
 					</div>
@@ -326,7 +326,7 @@
 					<div class="col"></div>
 					<div class="col">
 						<div class="d-grid gap-2">
-							<Button class="btn btn-primary" type="button" @click="handleModalProduce">Produce (ok)</Button>
+							<Button class="btn btn-primary" type="button" :disabled="btnProduceOkDisable" @click="handleModalProduce">Produce (ok)</Button>
 						</div>
 					</div>
 					<div class="col"></div>
